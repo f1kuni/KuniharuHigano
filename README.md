@@ -1,4 +1,4 @@
-# KuniharuHiganoポートフォリオ
+# KuniharuHigano
 
 # 2020年ハッカソン成果
 
