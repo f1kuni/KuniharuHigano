@@ -14,3 +14,7 @@ https://medium.com/furuhashilab/%E3%81%A4%E3%81%84%E3%81%ABjica%E3%81%AE%E3%81%8
 
 https://medium.com/furuhashilab/%E3%81%A4%E3%81%84%E3%81%ABjica%E3%81%AE%E3%81%8A%E5%8A%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%82%8B%E6%97%A5%E3%81%8C-b9f9d7cbba80?source=friends_link&sk=c4c99fcad7c8a8439408bf382a93f1f0
 
+# 2021ゼミ論
+
+
+![スクリーンショット 2021-01-22 16 23 49](https://user-images.githubusercontent.com/40018527/137181848-dcd5411f-05bb-4d05-83b1-fbf683cef6a6.png)
