@@ -18,4 +18,5 @@
 # ゼミ論
 ## [2021ゼミ論](https://github.com/furuhashilab/2021gsc_KuniharuHigano)
 
-# [Spotify World Chart Map](https://furuhashilab.github.io/Spotify_worldchart/)
+# Mapbox
+## [Spotify World Chart Map](https://furuhashilab.github.io/Spotify_worldchart/)
