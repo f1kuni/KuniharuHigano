@@ -16,9 +16,8 @@ https://medium.com/furuhashilab/%E3%81%A4%E3%81%84%E3%81%ABjica%E3%81%AE%E3%81%8
 
 # 2021ゼミ論
 
-https://github.com/furuhashilab/2020gsc_KuniharuHigano
+https://github.com/furuhashilab/2021gsc_KuniharuHigano
 
+# Spotify World Chart Map
 
-![スクリーンショット 2021-01-22 16 23 49](https://user-images.githubusercontent.com/40018527/137181848-dcd5411f-05bb-4d05-83b1-fbf683cef6a6.png)
-![スクリーンショット 2021-01-24 1 02 55](https://user-images.githubusercontent.com/40018527/137182043-c26bb5a2-d722-4385-9326-3bea98fc1fe0.png)
-![0E9DCAC4-7808-4E61-B872-53ED448B6738](https://user-images.githubusercontent.com/40018527/137182199-34ae322c-10af-473d-a10d-288db7d1ee0c.jpeg)
+https://furuhashilab.github.io/Spotify_worldchart/
